@@ -3,6 +3,6 @@
     { "id": 1, "title": "FIFA 2021" ,"price":"200 Nis","genre":"Sport"},
     { "id": 2, "title": "Valorant","price":"300 Nis","genre":"Action"},
     { "id": 3, "title": "Need for speed","price":"210 Nis","genre":"Racing"},
-    { "id": 4, "title": "Butterfield","price":"70 Nis","genre":"Action"}, }
+    { "id": 4, "title": "Butterfield","price":"70 Nis","genre":"Action"}
   ]
 }
