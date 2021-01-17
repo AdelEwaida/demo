@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "CD's": [
+    { "id": 1, "title": "FIFA 2021" ,"price":"200 Nis","genre":"Sport"},
+    { "id": 2, "title": "Valorant","price":"300 Nis","genre":"Action"},
+    { "id": 3, "title": "Need for speed","price":"210 Nis","genre":"Racing"},
+    { "id": 4, "title": "Butterfield","price":"70 Nis","genre":"Action"}, }
+  ]
 }
